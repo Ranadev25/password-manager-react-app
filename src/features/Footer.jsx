@@ -8,7 +8,7 @@ import Logoimg1 from "../../src/assets/footer-icon1.png";
 import Logoimg2 from "../../src/assets/footer-icon2.png";
 import Logoimg3 from "../../src/assets/footer-icon3.png";
 
-import headerLogo1 from "../../src/assets/header-Logo8.png";
+import headerLogo1 from "../../src/assets/header-logo8.png";
 
 const Footer = () => {
   return (

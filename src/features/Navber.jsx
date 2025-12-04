@@ -4,7 +4,7 @@ import { IoIosArrowDown } from "react-icons/io";
 import { RiMenu3Fill } from "react-icons/ri";
 import { MdArrowOutward } from "react-icons/md";
 
-import headerLogo2 from "../../src/assets/header-Logo8.png";
+import headerLogo2 from "../../src/assets/header-logo8.png";
 import "./Navber.css";
 import Demo1 from "../../src/assets/demo1.jpg";
 import Demo2 from "../../src/assets/demo2.jpg";
