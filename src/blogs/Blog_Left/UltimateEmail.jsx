@@ -3,7 +3,7 @@ import { FaRegCalendarAlt } from "react-icons/fa";
 
 import "../../about/aboutComponent/AboutHero.css";
 import Person from "../../../src/assets/10057m.png";
-import Mainimg from "../../../src/assets/chart3image.png";
+import Mainimg from "../../../src/assets/chart3Image.png";
 import ShadowLeft from "../../../src/assets/blueShedowLeftCenter.png";
 import Shadowright from "../../../src/assets/blueShedowrightCenter.png";
 const UltimateEmail = () => {
