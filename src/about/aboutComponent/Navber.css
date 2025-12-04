@@ -1,0 +1,76 @@
+
+.buttonchild{
+  position: absolute;
+  top:40%;
+  transition: 1s ease-in-out;
+}
+.buttonparent:hover .buttonchild{
+  top:35%
+}
+.otherweb{
+  position: absolute;
+  width: 100%;
+  left:0; 
+  top:100%;
+  transition: .4s;
+  transform:scaleY(0);
+  transform-origin: top;
+}
+
+.homemenu:hover .otherweb {
+  transform:scaleY(1)
+}
+.singinbtn {
+  position: relative;
+  background: #6a75f1; 
+  border-radius: 30px;
+  border: 3px solid #ffffffdb;
+  overflow: hidden;
+  transition: .4s ease-in-out;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.singinbtn::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff; 
+  border-radius: 25px;
+  transform: scaleX(0);
+  transform-origin: left; 
+  transition: transform .4s ease-in-out;
+  z-index: 0;
+}
+
+.singinbtn:hover::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.singinbtn:not(:hover)::after {
+  transform-origin: right;
+}
+
+
+.singinbtn span {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  font-weight: 400;
+  transition: .4s ease-in-out;
+}
+
+.singinbtn:hover span {
+  color: #a5acff;
+}
+.pages{
+  transform: scaleY(0);
+  transition: .4s;
+}
+.pagesParents:hover .pages{
+  transform: scaleY(1); 
+}

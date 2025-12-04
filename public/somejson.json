@@ -1,0 +1,224 @@
+{"person":[
+  {
+    "id": 1,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Pat Cummins",
+    "position": "CEO Biosynthesis",
+    "company": "CloudWatch",
+    "icon": "../../../src/assets/tes2-icon.png",
+    "companyLogo": "../../../src/assets/nietzsche.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "I can't imagine managing our email campaigns without eSoft. The simplicity of creating visually stunning emails combined with automation tools has transformed our marketing performance.",
+    "image": "../../../src/assets/10040.png"
+  },
+  {
+    "id": 2,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Emma Johnson",
+    "position": "Marketing Director",
+    "company": "TechNova",
+    "companyLogo": "../../../src/assets/epicurious.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "eSoft made email marketing a joy. We’ve doubled engagement and saved hours each week thanks to its automation and design flexibility.",
+    "image": "../../../src/assets/10044.png"
+  },
+  {
+    "id": 3,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "David Smith",
+    "position": "Founder",
+    "company": "InnoWave",
+    "companyLogo": "../../../src/assets/cloudwatch.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "Using eSoft has completely changed how we approach our email marketing. It helps us target the right audience at the right time, and the insights we get from its analytics have been crucial in boosting our customer engagement and conversions.",
+    "image": "../../../src/assets/10046.png"
+  },
+  {
+    "id": 4,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Sophia Williams",
+    "position": "Product Manager",
+    "company": "BlueEdge",
+    "companyLogo": "../../../src/assets/acmecrop.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "eSoft gives our team incredible flexibility in creating personalized campaigns that stand out. Its templates are elegant and mobile-friendly. Since we started using it, our overall open rate has increased significantly, and customer responses are more consistent than ever.",
+    "image": "../../../src/assets/10048.png"
+  },
+  {
+    "id": 5,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Liam Brown",
+    "position": "Chief Operating Officer",
+    "company": "NextLabs",
+    "companyLogo": "../../../src/assets/polymath.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "The automation workflows in eSoft have streamlined our communication process. Our team no longer spends hours manually scheduling emails. The design options are beautiful, the analytics insightful, and it has helped us maintain strong customer relationships effortlessly.",
+    "image": "../../../src/assets/10049.png"
+  },
+  {
+    "id": 6,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Olivia Taylor",
+    "position": "Head of Communications",
+    "company": "BrightPath",
+    "companyLogo": "../../../src/assets/nietzsche.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "What I love most about eSoft is how easy it is to use, even for new team members. The templates are modern, responsive, and customizable. Our brand communication feels much more consistent and engaging now, and our clients appreciate the difference.",
+    "image": "../../../src/assets/10052.png"
+  },
+  {
+    "id": 7,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Ethan Davis",
+    "position": "Digital Strategist",
+    "company": "VerveTech",
+    "companyLogo": "../../../src/assets/epicurious.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "Before using eSoft, we struggled with designing and managing our email campaigns efficiently. Now, with its automation and prebuilt components, we save hours weekly. The ability to track customer engagement in detail has been an invaluable advantage for our marketing.",
+    "image": "../../../src/assets/10053.png"
+  },
+  {
+    "id": 8,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Ava Martinez",
+    "position": "Creative Director",
+    "company": "DesignSpark",
+    "companyLogo": "../../../src/assets/cloudwatch.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "As a designer, I appreciate how visually stunning and flexible eSoft’s templates are. It gives full creative control while keeping everything simple and efficient. The results we’ve achieved in engagement and conversion rates have been phenomenal across all campaigns.",
+    "image": "../../../src/assets/10054.png"
+  },
+  {
+    "id": 9,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Noah Garcia",
+    "position": "Marketing Manager",
+    "company": "SmartPulse",
+    "companyLogo": "../../../src/assets/acmecrop.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "Our team used to rely on multiple tools for different parts of our marketing. eSoft combines all of those features in one place. It’s fast, reliable, and perfect for teams that need detailed insights and professional-looking campaigns with minimal effort.",
+    "image": "https://randomuser.me/api/portraits/men/28.jpg"
+  },
+  {
+    "id": 10,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Mia Rodriguez",
+    "position": "CEO",
+    "company": "DataStream",
+    "companyLogo": "../../../src/assets/polymath.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "eSoft has been one of the smartest investments we’ve made. The reporting features let us understand customer behavior better. Our emails are now more personalized and effective, and the time we save allows us to focus on growing our brand.",
+    "image": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "id": 11,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Lucas Wilson",
+    "position": "Chief Marketing Officer",
+    "company": "SkyNetix",
+    "companyLogo": "../../../src/assets/nietzsche.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "The transition to eSoft was smooth, and the platform exceeded expectations. Our email performance metrics improved almost instantly. It’s intuitive, powerful, and offers everything we need for campaign management, from design tools to performance tracking dashboards.",
+    "image": "https://randomuser.me/api/portraits/men/41.jpg"
+  },
+  {
+    "id": 12,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Isabella Clark",
+    "position": "Growth Manager",
+    "company": "EcoByte",
+    "companyLogo": "../../../src/assets/epicurious.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "We’ve tried several email marketing tools before, but none matched eSoft’s simplicity and performance. It’s built for growth-focused teams that want to save time and still deliver high-quality, engaging campaigns without hiring a full marketing department.",
+    "image": "https://randomuser.me/api/portraits/women/11.jpg"
+  },
+  {
+    "id": 13,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Mason Lewis",
+    "position": "Head of Strategy",
+    "company": "WaveSync",
+    "companyLogo": "../../../src/assets/cloudwatch.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "eSoft makes collaboration easy across our entire team. Designers, marketers, and managers all use it effortlessly. The automation features make campaign scheduling simple, and its performance insights allow us to fine-tune our content for maximum engagement every week.",
+    "image": "https://randomuser.me/api/portraits/men/15.jpg"
+  },
+  {
+    "id": 14,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Charlotte Walker",
+    "position": "Project Manager",
+    "company": "Codeverse",
+    "companyLogo": "../../../src/assets/acmecrop.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "Our company sends thousands of emails monthly, and eSoft has made this process effortless. The templates are adaptable, and we can measure success instantly. It’s the perfect balance of creativity, automation, and data-driven optimization for growing brands.",
+    "image": "https://randomuser.me/api/portraits/women/35.jpg"
+  },
+  {
+    "id": 15,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Elijah Hall",
+    "position": "Co-Founder",
+    "company": "PixelStorm",
+    "companyLogo": "../../../src/assets/polymath.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "With eSoft, our startup’s marketing game changed completely. The ability to customize and automate sequences has saved countless hours. The analytics dashboard gives us exactly the data we need to make confident, strategic business decisions every week.",
+    "image": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "id": 16,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Amelia Allen",
+    "position": "Operations Lead",
+    "company": "OptiLink",
+    "companyLogo": "../../../src/assets/nietzsche.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "I appreciate how reliable eSoft is. Even large-scale campaigns run smoothly without delays. Its built-in A/B testing helped us optimize subject lines, and the engagement feedback has improved our understanding of what resonates with our audience the most.",
+    "image": "https://randomuser.me/api/portraits/women/48.jpg"
+  },
+  {
+    "id": 17,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "James Young",
+    "position": "Brand Manager",
+    "company": "CyberCloud",
+    "companyLogo": "../../../src/assets/epicurious.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "Before eSoft, tracking engagement was guesswork. Now, everything is measurable and clear. The clean interface makes creating campaigns quick, and the automation ensures consistent delivery across all customer touchpoints. It’s a complete solution for digital teams.",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "id": 18,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Harper King",
+    "position": "Senior Designer",
+    "company": "SkyLabs",
+    "companyLogo": "../../../src/assets/cloudwatch.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "I’ve worked with many design platforms, but eSoft stands out for its precision and efficiency. The design editor is fast, responsive, and packed with customization options. Our visuals look professional every time, even with tight deadlines or large projects.",
+    "image": "https://randomuser.me/api/portraits/women/15.jpg"
+  },
+  {
+    "id": 19,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Benjamin Wright",
+    "position": "VP of Marketing",
+    "company": "MediaNest",
+    "companyLogo": "../../../src/assets/acmecrop.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "Since we implemented eSoft, our email engagement rate has more than doubled. The automation allows our team to focus on strategy instead of repetitive tasks. It’s intuitive, fast, and integrates perfectly with our existing marketing infrastructure.",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg"
+  },
+  {
+    "id": 20,
+    "cotteqion": "../../../src/assets/tes2-icon.png",
+    "name": "Evelyn Scott",
+    "position": "Team Lead",
+    "company": "CoreWave",
+    "companyLogo": "../../../src/assets/polymath.png",
+    "rating": "🌟🌟🌟🌟🌟",
+    "review": "eSoft combines creativity with simplicity like no other tool. From planning campaigns to analyzing performance, everything feels streamlined. It’s become a daily essential for our team and helps us maintain a consistent, engaging brand voice across all messages.",
+    "image": "https://randomuser.me/api/portraits/women/8.jpg"
+  }
+]
+}

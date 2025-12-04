@@ -1,0 +1,67 @@
+
+/* hover:from-[#D227F7] hover:to-[#712EFE] */
+
+.mybtn{
+  background: linear-gradient(to right,#712EFE, #D227F7 );
+  padding: 11px 20px;
+  margin: 12px 0;
+  border-radius: 5px;
+  border-bottom: 5px solid rgba(7, 7, 103, 0.349);
+  color:white;
+  position: relative;
+  z-index:1;
+}
+.mybtn::after{
+  content: '';
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right,#D227F7,#712EFE);
+  border-radius: 5px;
+  z-index: 0;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform .4s ease-in-out;
+
+}
+.mybtn:hover::after{
+  transform: scaleX(1);
+  transform-origin: left;
+}
+.mybtn .child{
+  position: relative;
+  z-index: 2;
+}
+
+.buttonchild{
+  position: absolute;
+  top:40%;
+  transition: 1s ease-in-out;
+}
+.buttonparent:hover .buttonchild{
+  top:35%
+}
+.otherweb{
+  position: absolute;
+  width: 100%;
+  left:0; 
+  top:100%;
+  transition: .4s;
+  transform:scaleY(0);
+  transform-origin: top;
+}
+
+.homemenu:hover .otherweb {
+  transform:scaleY(1)
+}
+
+.pages{
+  transform: scaleY(0);
+  transition: .4s;
+}
+.pagesParents:hover .pages{
+  transform: scaleY(1); 
+}
+
