@@ -14,18 +14,20 @@ import DigitalWorld from "./DigitalWorld";
 
 const Home = () => {
   return (
-    <div className="z-10 text-[#271A3C] max-w-[100vw] overflow-hidden">
+    <div>
       <Navber />
-      <HomeHero />
-      <HowItWorks />
-      <SecureApps />
-      <Ultimate />
-      <Autofill />
-      <Testimonials />
-      <PricingPlan />
-      <OurBlog />
-      <DigitalWorld />
-      <Footer />
+      <div className="z-10 text-[#271A3C] max-w-[100vw] overflow-x-hidden ">
+        <HomeHero />
+        <HowItWorks />
+        <SecureApps />
+        <Ultimate />
+        <Autofill />
+        <Testimonials />
+        <PricingPlan />
+        <OurBlog />
+        <DigitalWorld />
+        <Footer />
+      </div>
     </div>
   );
 };

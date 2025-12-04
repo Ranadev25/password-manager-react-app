@@ -22,8 +22,8 @@ const Navber = () => {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <div className=" shadow sticky top-0 z-50   bg-gradient-to-r from-[#712EFE] to-[#D227F7] pt-2 ">
-      <nav className="flex px-5 relative md:px-10 lg:px-20 justify-between z-50 items-center text-lg bg-white ">
+    <div className="  z-50 sticky top-0 w-full  border-[#dddddd83]  bg-gradient-to-r from-[#712EFE] to-[#D227F7] pt-2 ">
+      <nav className="flex   px-5 relative md:px-10 lg:px-20 justify-between z-50 items-center text-lg bg-white ">
         <img className="py-3" src={headerLogo2} alt="" />
 
         {/* toggle menu icon */}

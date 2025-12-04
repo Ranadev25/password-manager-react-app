@@ -6,7 +6,9 @@ const About_us = () => {
   return (
     <div>
       <Navber />
-      <TotalComponent />
+      <div className=" overflow-x-hidden">
+        <TotalComponent />
+      </div>
     </div>
   );
 };
