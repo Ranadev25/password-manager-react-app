@@ -5,7 +5,7 @@ import "../../about/aboutComponent/AboutHero.css";
 import Person from "../../../src/assets/10057m.png";
 import Mainimg from "../../../src/assets/chart3Image.png";
 import ShadowLeft from "../../../src/assets/blueShedowLeftCenter.png";
-import Shadowright from "../../../src/assets/blueShedowrightCenter.png";
+// import Shadowright from "../../../src/assets/blueShedowrightCenter.png";
 const UltimateEmail = () => {
   return (
     <div className="bg-[url('../../../src/assets/blueShedowLeftCenter.png')] bg-no-repeat lg:bg-left max-lg:bg-bottom-left ">
