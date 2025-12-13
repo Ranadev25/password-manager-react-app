@@ -5,7 +5,7 @@ import Homefooter from "../../src/assets/homefooter.png";
 const DigitalWorld = () => {
   return (
     <div className="">
-      <div className="bg-[url('../../src/assets/blueSlideiBgimg.png')] p-10 py-19.5 bg-no-repeat text-white bg-center  ">
+      <div className="bg-[url('../../src/assets/blueSlideiBgImg.png')] p-10 py-19.5 bg-no-repeat text-white bg-center  ">
         <div className=" w-[90%] mx-auto sm:w-[80%] md:w-[600px]">
           <motion.h1
             initial={{ x: 50, letterSpacing: "5px", opacity: 0 }}
