@@ -438,7 +438,7 @@ const Navber = () => {
 
         {/* navigation menu for mubile scrien */}
         <div
-          className={`lg:hidden absolute top-0 bg-[#6A5Cff] w-full transition-all duration-500 ease-in-out p-5 text-[17px] ${
+          className={`lg:hidden absolute top-0 bg-[#6A5Cff] w-full transition-all h-screen overflow-y-auto duration-500 ease-in-out p-5 text-[17px] ${
             menuOpen ? "left-0 opacity-100" : "left-[-100%] opacity-0"
           }`}
         >

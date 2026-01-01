@@ -17,6 +17,7 @@ import Login from "./accounts/Login";
 import Reset from "./accounts/Reset";
 import Verify_Email from "./accounts/Verify_Email";
 import Success from "./accounts/Success";
+import NotFound from "./components/NotFound";
 
 function App() {
   return (
@@ -40,6 +41,7 @@ function App() {
         <Route path="/accounts/reset" element={<Reset />} />
         <Route path="/accounts/verify-email" element={<Verify_Email />} />
         <Route path="/accounts/success" element={<Success />} />
+        <Route path="/notfound" element={<NotFound />} />
       </Routes>
     </BrowserRouter>
   );

@@ -20,12 +20,17 @@ const Mobile_menu = ({ setMenuOpen }) => {
 
   return (
     <div className=" text-white ">
-      <div className="mb-10 overflow-y-auto">
+      <div className="mb-10 ">
         <div className="flex justify-between items-center mb-5">
           <img src={HeaderLogo1} alt="" />
           <RxCross1 onClick={() => setMenuOpen(false)} className="text-3xl" />
         </div>
-        <nav>
+        <nav className="overflow-auto min-h-screen">
+          <ul>
+            <li>
+              <Link to="/">Go To Home Page</Link>
+            </li>
+          </ul>
           <ul className=" leading-11">
             <li>
               <div
@@ -47,34 +52,34 @@ const Mobile_menu = ({ setMenuOpen }) => {
                 </div>
                 <ul className={`ml-8 ${multipageopen ? "block" : "hidden"}`}>
                   <li>
-                    <Link to="">Home 1</Link>
+                    <Link to="/notfound">Home 1</Link>
                   </li>
                   <li>
-                    <Link to="">Home 2</Link>
+                    <Link to="/notfound">Home 2</Link>
                   </li>
                   <li>
-                    <Link to="">Home 3</Link>
+                    <Link to="/notfound">Home 3</Link>
                   </li>
                   <li>
-                    <Link to="">Home 4</Link>
+                    <Link to="/notfound">Home 4</Link>
                   </li>
                   <li>
-                    <Link to="">Home 5</Link>
+                    <Link to="/notfound">Home 5</Link>
                   </li>
                   <li>
-                    <Link to="">Home 6</Link>
+                    <Link to="/notfound">Home 6</Link>
                   </li>
                   <li>
-                    <Link to="">Home 7</Link>
+                    <Link to="/notfound">Home 7</Link>
                   </li>
                   <li>
-                    <Link to="">Home 8</Link>
+                    <Link to="/notfound">Home 8</Link>
                   </li>
                   <li>
-                    <Link to="">Home 9</Link>
+                    <Link to="/notfound">Home 9</Link>
                   </li>
                   <li>
-                    <Link to="">RTL</Link>
+                    <Link to="/notfound">RTL</Link>
                   </li>
                 </ul>
                 <div
@@ -86,34 +91,34 @@ const Mobile_menu = ({ setMenuOpen }) => {
                 </div>
                 <ul className={`ml-8 ${landingopen ? "block" : "hidden"}`}>
                   <li>
-                    <Link to="">Home 1</Link>
+                    <Link to="/notfound">Home 1</Link>
                   </li>
                   <li>
-                    <Link to="">Home 2</Link>
+                    <Link to="/notfound">Home 2</Link>
                   </li>
                   <li>
-                    <Link to="">Home 3</Link>
+                    <Link to="/notfound">Home 3</Link>
                   </li>
                   <li>
-                    <Link to="">Home 4</Link>
+                    <Link to="/notfound">Home 4</Link>
                   </li>
                   <li>
-                    <Link to="">Home 5</Link>
+                    <Link to="/notfound">Home 5</Link>
                   </li>
                   <li>
-                    <Link to="">Home 6</Link>
+                    <Link to="/notfound">Home 6</Link>
                   </li>
                   <li>
-                    <Link to="">Home 7</Link>
+                    <Link to="/notfound">Home 7</Link>
                   </li>
                   <li>
-                    <Link to="">Home 8</Link>
+                    <Link to="/notfound">Home 8</Link>
                   </li>
                   <li>
-                    <Link to="">Home 9</Link>
+                    <Link to="/notfound">Home 9</Link>
                   </li>
                   <li>
-                    <Link to="">RTL</Link>
+                    <Link to="/notfound">RTL</Link>
                   </li>
                 </ul>
               </div>
