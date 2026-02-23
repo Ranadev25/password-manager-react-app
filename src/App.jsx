@@ -3,7 +3,6 @@ import Home from "./home/Home";
 import About_us from "./about/About_us";
 import Contract_us from "./pages/Contract_us";
 import Download from "./pages/Download";
-import Error_page from "./pages/Error_page";
 import Features from "./pages/Features";
 import Pricing from "./pages/Pricing";
 import Testimonial from "./pages/Testimonial";
@@ -19,6 +18,8 @@ import Verify_Email from "./accounts/Verify_Email";
 import Success from "./accounts/Success";
 import NotFound from "./components/NotFound";
 
+import Error_page from "./pages/Error_page";
+
 function App() {
   return (
     <BrowserRouter>
@@ -27,7 +28,6 @@ function App() {
         <Route path="/about" element={<About_us />} />
         <Route path="/pages/contract-us" element={<Contract_us />} />
         <Route path="/pages/download" element={<Download />} />
-        <Route path="*" element={<Error_page />} />
         <Route path="/pages/features" element={<Features />} />
         <Route path="/pages/pricing" element={<Pricing />} />
         <Route path="/pages/testimonial" element={<Testimonial />} />
@@ -42,6 +42,7 @@ function App() {
         <Route path="/accounts/verify-email" element={<Verify_Email />} />
         <Route path="/accounts/success" element={<Success />} />
         <Route path="/notfound" element={<NotFound />} />
+        <Route path="*" element={<Error_page />} />
       </Routes>
     </BrowserRouter>
   );
